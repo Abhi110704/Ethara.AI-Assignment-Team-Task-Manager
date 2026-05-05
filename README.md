@@ -2,6 +2,8 @@
 
 This is a Full-Stack Team Task Management application built for Ethara.AI assessment.
 
+🚀 **LIVE DEPLOYMENT**: [https://etharaai-assignment-team-task-manager-production.up.railway.app](https://etharaai-assignment-team-task-manager-production.up.railway.app)
+
 ## Tech Stack
 * **Framework**: Next.js 15 (App Router)
 * **Database**: Prisma ORM with PostgreSQL (configured for Railway) / SQLite (used locally by default for ease of testing)
